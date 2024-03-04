@@ -7,9 +7,9 @@ The dataset used in this Case Study is a dataset of 253,680 survey responses to 
 * 0 is for no diabetes or only during pregnancy
 * 1 is for prediabetes
 * 2 is for diabetes.  
-There is class imbalance in this dataset.
-The dataset was retrieved from:
-https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+There is class imbalance in this dataset.  
+The dataset was retrieved from: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 ## Implementation
 I made use of a python notebook (.ipynb) to implement and train this ANN model. The model was made using the Tensorflow 2.0 library in Python.
