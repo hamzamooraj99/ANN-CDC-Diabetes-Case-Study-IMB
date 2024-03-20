@@ -1,5 +1,5 @@
 # ANN-CDC-Diabetes-Case-Study-IMB
-This is an Artificial Neural Network Classification Model to predict whether a patient has Diabetes, Pre-Diabetes or Neither.
+This is a case study that explores an Artificial Neural Network Classification Model to predict whether a patient has Diabetes, Pre-Diabetes or Neither. The purpose of this case study is to explore how, and why, an imbalanced dataset can directly affect the accuracy of a model.
 
 ## Dataset
 The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telephone survey that is collected annually by the CDC. This original dataset contains responses from 441,455 individuals and has 330 features.  
